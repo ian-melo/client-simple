@@ -6,4 +6,6 @@ import net.ism.crud.clientsimple.model.Estatistica;
 
 public interface EstatisticaRepository extends JpaRepository<Estatistica, Long> {
 
+	public Estatistica findByCliente_Id(Long clienteId);
+
 }
