@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>net.ism.crud</groupId>
 	<artifactId>client-simple</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<name>client-simple</name>
 	<description>Projeto de CRUD de cliente simples</description>
 

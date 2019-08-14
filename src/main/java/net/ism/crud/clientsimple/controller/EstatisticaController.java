@@ -45,7 +45,6 @@ public class EstatisticaController {
 	}
 	
 	private Estatistica generateModel(String ip, LocalDate data, Cliente cliente) {
-		System.out.println("TESTEEEE IP="+ip);//TEST
 		// Info estatistica
 		Estatistica est = new Estatistica();
 		est.setIpv4(ip);
