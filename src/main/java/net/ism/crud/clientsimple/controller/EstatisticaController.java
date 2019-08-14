@@ -9,9 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
 import net.ism.crud.clientsimple.controller.dto.tpp.IpVigilanteResponseDTO;
-import net.ism.crud.clientsimple.controller.dto.tpp.MetaWeatherDetailListResponseDTO;
 import net.ism.crud.clientsimple.controller.dto.tpp.MetaWeatherDetailResponseDTO;
-import net.ism.crud.clientsimple.controller.dto.tpp.MetaWeatherSearchListResponseDTO;
 import net.ism.crud.clientsimple.controller.dto.tpp.MetaWeatherSearchResponseDTO;
 import net.ism.crud.clientsimple.model.Cliente;
 import net.ism.crud.clientsimple.model.Estatistica;
